@@ -1,6 +1,6 @@
 # CampusConnect
 
-A small Django web app for a campus community, built for **CSIT327 (Group 5)** as a first Django project. Students can sign up, log in, and see a personal dashboard. Users with the Admin role also get access to a restricted admin panel.
+A small Django web app for a campus community, built for **CSIT327 (Section G5)** as a first Django project. Students can sign up, log in, and see a personal dashboard. Users with the Admin role also get access to a restricted admin panel.
 
 ## Features
 
@@ -108,4 +108,4 @@ That user will now see an **Open admin panel** button on their dashboard.
 
 ## Author
 
-Reuben Navarrete — CSIT327, Group 5
+Reuben Navarrete — CSIT327, Section G5
